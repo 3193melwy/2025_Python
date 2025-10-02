@@ -4,7 +4,7 @@ root = Tk()
 choice = IntVar()
 
 Label(root,
-      text="가장 선호하는 프로그랴밍 언어를 선택하시오.",
+      text="가장 선호하는 프로그래밍 언어를 선택하시오.",
       justify=LEFT,
       padx=20).pack()
 
