@@ -9,4 +9,4 @@ root.geometry("300x200")
 button = Button(root, text="클릭하세요.", command=button_clicked) 
 button.pack()
 
-root.mainloop()
+root.mainloop() 
